@@ -20,8 +20,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Pagamento.Application\Cliente.Application.csproj" />
-	  <ProjectReference Include="..\Pagamento.Infrastructure\Cliente.Infrastructure.csproj" />
+	  <ProjectReference Include="..\Cliente.Application\Cliente.Application.csproj" />
+	  <ProjectReference Include="..\Cliente.Infrastructure\Cliente.Infrastructure.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
